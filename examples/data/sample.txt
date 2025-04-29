@@ -1,0 +1,7 @@
+This is a sample text file for testing the text transformer.
+It contains multiple lines of text to demonstrate the functionality.
+
+The text transformer should be able to handle various types of text content,
+including special characters and formatting.
+
+This is the last line of the sample text file. 
